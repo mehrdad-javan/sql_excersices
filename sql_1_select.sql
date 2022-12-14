@@ -15,7 +15,7 @@
 #
 # 1: Get a query to return "Hello World", 123
 # (Hint: 1 row, 2 columns)
-#
+SELECT "hello world" as message , 123 as id;
 #
 # 2: Get everything from the city table
 # (Hint: Many many rows)
